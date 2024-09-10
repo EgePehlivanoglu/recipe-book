@@ -20,7 +20,7 @@
 - 1 tsp ginger, ground or juice
 - 0.5 tsp ground cloves
 - 2 eggs
-
+- 2 dl tahini
 
 ## Instructions
 
@@ -29,7 +29,7 @@
 - Smash manually until somehow homogeneous
 - Add eggs and blend
 - Add evaporated milk and blend
-
+- Add tahini on top.
 
 ## Baking
 
